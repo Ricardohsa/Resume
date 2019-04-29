@@ -1,5 +1,5 @@
 body {
-    background-color: #c8e6f5
+    background-color: #aec9d6b6
   }
 
   hr {
@@ -14,3 +14,11 @@ body {
     border-color: gray;   
     
   }
+  
+  h1 {
+      color: #9c4e55
+  }
+
+  h3 {
+    color: #9c4e55
+}
